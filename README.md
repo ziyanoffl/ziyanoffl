@@ -7,30 +7,30 @@
 <p>A software engineer with a passion for machine learning, data science, and web development. I have experience in
     designing and developing web pages, ERP systems, and machine learning applications using various languages,
     frameworks, and tools. I'm currently pursuing a BSc degree in Software Engineering at Solent University. I love to
-    learn new things and work on challenging projects. Check out some of my work below: 👇</p>
+    learn new things and work on challenging projects. Check out some of my work below:</p>
 <ul>
     <li><strong>Stock Prediction Application</strong>: A Django app that predicts stock prices using a fine-tuned hybrid
-        model1. Achieved 97% accuracy and a highly interactive UI. <a
+        model. Achieved 97% accuracy and a highly interactive UI. <a
             href="https://gitfront.io/r/user-1728115/RhAF6K9CfdZR/stock-project/">Link</a></li>
     <li><strong>Calculator App (DevOps Project)</strong>: A calculator web app that demonstrates CI/CD pipelines and
         workflow automation using Docker, GitHub actions, and Terraform. <a
-            href="https://github.com/ziyanoffl/CalculatorApp.git">Link</a></li>2 <li><strong>Heart
-            Disease Prediction System</strong>: A machine learning project that predicts heart diseases with 77%
-        accuracy using various health indicators3. Includes data visualization and analysis. <a
+            href="https://github.com/ziyanoffl/CalculatorApp.git">Link</a></li>
+    <li><strong>Heart Disease Prediction System</strong>: A machine learning project that predicts heart diseases with
+        77% accuracy using various health indicators. Includes data visualization and analysis. <a
             href="https://gitfront.io/r/user-1728115/bzHVHUs5jQ32/Data-Science-Assignment/">Link</a></li>
     <li><strong>TodoList App</strong>: A Laravel web app that shows basic CRUD operations with Bootstrap and MySQL. <a
             href="https://github.com/ziyanoffl/TodoList.git">Link</a></li>
     <li><strong>Virtual Examination Center</strong>: A PHP web app that allows teachers to create and administer tests
         with a user management system. <a href="https://github.com/ziyanoffl/Virtual-Examination-Center.git">Link</a>
-    </li>4 <li><strong>Theatre POS system</strong>: A Java
-        application that can issue tickets and manage schedule for theatres5. Uses MySQL database. <a
-            href="https://github.com/ziyanoffl/Theatre-POS-System.git">Link</a>
     </li>
+    <li><strong>Theatre POS system</strong>: A Java application that can issue tickets and manage the schedule for
+        theatres. Uses MySQL database. <a href="https://github.com/ziyanoffl/Theatre-POS-System.git">Link</a></li>
     <li><strong>Agricultural Auction System</strong>: A Java application for efficient auctions between farmers and
-        other stakeholders6. Designed using Figma. <a
+        other stakeholders. Designed using Figma. <a
             href="https://github.com/ziyanoffl/Agricultural-Auction-App.git">Link</a></li>
 </ul>
 <p>I hope you enjoy browsing my profile and feel free to contact me anytime. 😊</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=ziyanoffl" alt="ziyanoffl" /></a> </p>
