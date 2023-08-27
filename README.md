@@ -1,7 +1,7 @@
 [![MasterHead](img/master_head.gif)](ziyan.epizy.com)
 
 <h1 align="center">Hi 👋, I'm Mohammed Ziyan</h1>
-<img align="right" alt="Coding" width="400"
+<img align="right" alt="Coding" width="200"
     src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyanoffl&label=Profile%20views&color=0e75b6&style=flat"
         alt="ziyanoffl" /> </p>
