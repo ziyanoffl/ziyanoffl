@@ -42,10 +42,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/mohammed-ziyan" target="_blank"><img align="center"
-            src="img/linked-in.svg"
-            alt="mohammed-ziyan" height="30" width="40"></a>
-    <a href="https://instagram.com/ziyanoffl" target="_blank"><img align="center"
+    <a href="https://linkedin.com/in/mohammed-ziyan" target="_blank">
+        <img align="center" src="img/linked-in.png" alt="mohammed-ziyan" height="30" width="40">
+    </a>
+    <a href="https://instagram.com/ziyanoffl" target="_blank">
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ziyanoffl" height="30" width="40"></a>
 </p>
@@ -91,8 +92,7 @@
         <th>Tools</th>
         <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
                 height="40" /><br>Microsoft Azure</td>
-        <td><img src="img/office.png" alt="office"
-                width="40" height="40" /><br>MS Office</td>
+        <td><img src="img/office.png" alt="office" width="40" height="40" /><br>MS Office</td>
         <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
                 height="40" /><br>Figma</td>
         <td><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40"
