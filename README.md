@@ -18,11 +18,11 @@
 | <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> <br> PHP | <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> <br> Laravel | <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="office" width="40" height="40"/> <br> MS Office |
 | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> <br> Java | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <br> Flask | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <br> Figma |
 | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> <br> MySQL | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> <br> Bootstrap | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> <br> GitHub |
-|  | <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> <br> jQuery | <img src= "https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg "alt= "jira "width= "40 "height= "40 "/> <br> Jira |
-|  |  | <img src= "https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg "alt= "gitlab "width= "40 "height= "40 "/> <br> GitLab |
-|  |  | <img src= "https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg "alt= "terraform "width= "40 "height= "40 "/> <br> Terraform |
-|  |  | <img src= "https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg "alt= "powerbi "width= "40 "height= "40 "/> <br> Power BI |
-|  |  | <img src= "https://www.vectorlogo.zone/logos/tableau_software/tableau_software-icon.svg "alt= "tableau "width= "40 "height= "40 "/> <br> Tableau |
+|  | <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> <br> jQuery | <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> <br> Jira |
+|  |  | <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> <br> GitLab |
+|  |  | <img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" alt="terraform" width="40" height="40"/> <br> Terraform |
+|  |  | <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> <br> Power BI |
+|  |  | <img src="https://www.vectorlogo.zone/logos/tableau_software/tableau_software-icon.svg" alt="tableau" width="40" height="40"/> <br> Tableau |
 
 
 
