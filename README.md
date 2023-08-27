@@ -12,20 +12,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-| Programming Languages |         |         |         |         |         |
-| :---:                 | :---:   | :---:   | :---:   | :---:   | :---:   |
-| Python                | PHP     | Java    | MySQL   |         |         |
-| ![python](https://www.vectorlogo.zone/logos/python/python-icon.svg)         | ![php](https://www.vectorlogo.zone/logos/php/php-icon.svg)             | ![java](https://www.vectorlogo.zone/logos/java/java-icon.svg)           | ![mysql](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)       |         |         |
-| Django                | Laravel | Flask   | Bootstrap| jQuery  |         |
-| ![django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg) | ![laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg) | ![flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg) | ![bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg) | ![jquery](https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg) |         |
-| Microsoft Azure       | MS Office | Figma | GitHub  | Jira    | GitLab  |
-| ![azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) | ![office](https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg) | ![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)   | ![github](https://www.vectorlogo.zone/logos/github/github-icon.svg) | ![jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg) | ![gitlab](https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg) |
-|                       |         |         |         |         | Terraform| 
-|                       |         |         |         |         | ![terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg) |
-|                       |         |         |         |         | Power BI | 
-|                       |         |         |         |         | ![powerbi](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg) |
-|                       |         |         |         |         | Tableau  |
-|                       |         |         |         |         | ![tableau](img/tableau.svg) |
+| Programming Languages | PHP              | Java           | MySQL            | JavaScript         |     |     |     |     |     |
+| :-------------------: | :--------------: | :------------: | :--------------: | :----------------: | --- | --- | --- | --- | --- |
+|                      | <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> <br> PHP | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> <br> Java | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> <br> MySQL | <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> <br> JavaScript |     |     |     |     |     |
+|                      | Laravel          | Flask          | Bootstrap        | jQuery             |     |     |     |     |     |
+|                      | <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> <br> Laravel | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <br> Flask | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> <br> Bootstrap | <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> <br> jQuery |     |     |     |     |     |
+|                      |     |     |     |     |     |     |     |     |     |
+|     Frameworks       | Django           | Figma          | GitHub           | jQuery             |     |     |     |     |     |
+| :-------------------: | :--------------: | :------------: | :--------------: | :----------------: | --- | --- | --- | --- | --- |
+|                      | <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> <br> Django | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <br> Figma | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> <br> GitHub | <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> <br> jQuery |     |     |     |     |     |
+|                      |     |     |     |     |     |     |     |     |     |
+|       Tools          | Microsoft Azure | MS Office      | Figma            | GitHub             | Jira | GitLab | Terraform | Power BI | Tableau |
+| :-------------------: | :--------------: | :------------: | :--------------: | :----------------: | :--: | :----: | :-------: | :------: | :-----: |
+|                      | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <br> Microsoft Azure | <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="office" width="40" height="40"/> <br> MS Office | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <br> Figma | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> <br> GitHub | <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> <br> Jira | <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> <br> GitLab | <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> <br> Terraform | <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> <br> Power BI | <img src="img/tableau.svg" alt="tableau" width="40" height="40"/> <br> Tableau |
 
 
 
