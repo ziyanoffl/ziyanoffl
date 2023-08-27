@@ -13,8 +13,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-  
   <table>
     <tr>
       <th>Programming Languages</th>
@@ -41,7 +39,7 @@
       <td></td>
     </tr>
     <tr>
-      <th>Tools</th>
+      <th rowspan="2">Tools</th>
       <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/><br>Microsoft Azure</td>
       <td><img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="office" width="40" height="40"/><br>MS Office</td>
       <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><br>Figma</td>
@@ -50,7 +48,13 @@
       <td><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/><br>GitLab</td>
       <td><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/><br>Terraform</td>
       <td><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/><br>Power BI</td>
-      <td><img src="img/tableau.svg" alt="tableau" width="40" height="40"/><br>Tableau</td>
+      
+    </tr>
+    <tr>
+        <td><img src="img/tableau.svg" alt="tableau" width="40" height="40"/><br>Tableau</td>
+        <td rowspan="8"></td>
+
+        
     </tr>
   </table>
   
