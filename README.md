@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+  <table>
     <tr>
       <th>Programming Languages</th>
       <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/><br>Python</td>
@@ -21,10 +21,10 @@
       <td><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/><br>Java</td>
       <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/><br>MySQL</td>
       <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/><br>JavaScript</td>
-      <td rowspan="2"></td>
-      <td rowspan="3"></td>
-      <td rowspan="4"></td>
-      <td rowspan="5"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th>Frameworks</th>
@@ -33,9 +33,13 @@
       <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/><br>Flask</td>
       <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/><br>Bootstrap</td>
       <td><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/><br>jQuery</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th rowspan="2">Tools</th>
+      <th>Tools</th>
       <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/><br>Microsoft Azure</td>
       <td><img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="office" width="40" height="40"/><br>MS Office</td>
       <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><br>Figma</td>
@@ -44,11 +48,10 @@
       <td><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/><br>GitLab</td>
       <td><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/><br>Terraform</td>
       <td><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/><br>Power BI</td>
-    </tr>
-    <tr>
       <td><img src="img/tableau.svg" alt="tableau" width="40" height="40"/><br>Tableau</td>
     </tr>
   </table>
+  
 
 
 
