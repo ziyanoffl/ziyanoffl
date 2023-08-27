@@ -20,9 +20,9 @@
 | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> <br> MySQL | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> <br> Bootstrap | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> <br> GitHub |
 |  | <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> <br> jQuery | <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> <br> Jira |
 |  |  | <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> <br> GitLab |
-|  |  | <img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" alt="terraform" width="40" height="40"/> <br> Terraform |
+|  |  | <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> <br> Terraform |
 |  |  | <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> <br> Power BI |
-|  |  | <img src="https://www.vectorlogo.zone/logos/tableau_software/tableau_software-icon.svg" alt="tableau" width="40" height="40"/> <br> Tableau |
+|  |  | <img src="img/tableau.svg" alt="tableau" width="40" height="40"/> <br> Tableau |
 
 
 
