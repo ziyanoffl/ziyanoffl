@@ -1,15 +1,16 @@
 [![MasterHead](img/master_head.gif)](ziyan.epizy.com)
 
 <h1 align="center">Hi 👋, I'm Mohammed Ziyan</h1>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
+<img align="right" alt="Coding" width="400"
+    src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyanoffl&label=Profile%20views&color=0e75b6&style=flat"
         alt="ziyanoffl" /> </p>
 
-<p align="left">As a dedicated software engineer, I've immersed myself in the worlds of machine learning, data
-    science, and web development. My journey has led me to design web pages, ERP systems, and captivating machine
-    learning applications using various languages, frameworks, and tools. Currently, I'm pursuing a BSc degree in
-    Software Engineering at Solent University. Here's a sneak peek into my journey and projects:</p>
-<ul>
+<p align="left" style="margin-right: 420px;">As a dedicated software engineer, I've immersed myself in the worlds of
+    machine learning, data science, and web development. My journey has led me to design web pages, ERP systems, and
+    captivating machine learning applications using various languages, frameworks, and tools. Currently, I'm pursuing a
+    BSc degree in Software Engineering at Solent University. Here's a sneak peek into my journey and projects:</p>
+<ul style="margin-left: 20px;">
     <li><strong>Stock Prediction Application 📊</strong>: Venture into my Django-based app for predicting stock prices,
         where a meticulously tuned hybrid model achieved a remarkable 97% accuracy. Discover it <a
             href="https://gitfront.io/r/user-1728115/RhAF6K9CfdZR/stock-project/">here</a>.</li>
@@ -33,8 +34,8 @@
         platform brings farmers and stakeholders together. Designed with the artistic strokes of Figma. Explore it <a
             href="https://github.com/ziyanoffl/Agricultural-Auction-App.git">here</a>.</li>
 </ul>
-<p>Feel free to explore my portfolio and reach out if you have any inquiries or collaboration ideas. Thank you for
-    visiting!</p>
+<p style="clear: both;">Feel free to explore my portfolio and reach out if you have any inquiries or collaboration
+    ideas. Thank you for visiting!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -107,7 +108,8 @@
 
 <h3 align="left">GitHub Activity Stats:</h3>
 
-<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or
+    skill level.</p>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ziyanoffl&theme=dark&show_icons=true&locale=en&layout=compact"
