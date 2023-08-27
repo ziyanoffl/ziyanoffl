@@ -1,10 +1,11 @@
 [![MasterHead](img/master_head.gif)](ziyan.epizy.com)
 
 <h1 align="center">Hi 👋, I'm Mohammed Ziyan</h1>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyanoffl&label=Profile%20views&color=0e75b6&style=flat"
         alt="ziyanoffl" /> </p>
 
-<p>As a dedicated software engineer, I've immersed myself in the worlds of machine learning, data
+<p align="left">As a dedicated software engineer, I've immersed myself in the worlds of machine learning, data
     science, and web development. My journey has led me to design web pages, ERP systems, and captivating machine
     learning applications using various languages, frameworks, and tools. Currently, I'm pursuing a BSc degree in
     Software Engineering at Solent University. Here's a sneak peek into my journey and projects:</p>
