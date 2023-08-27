@@ -43,7 +43,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/mohammed-ziyan" target="_blank">
-        <img align="center" src="img/linkedin.png" alt="mohammed-ziyan" height="30" width="40">
+        <img align="center" src="img/linkedin.png" alt="mohammed-ziyan" height="40" width="40">
     </a>
     <a href="https://instagram.com/ziyanoffl" target="_blank">
         <img align="center"
