@@ -35,11 +35,6 @@
 <p>Feel free to explore my portfolio and reach out if you have any inquiries or collaboration ideas. Thank you for
     visiting!</p>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=ziyanoffl" alt="ziyanoffl" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/mohammed-ziyan" target="_blank">
@@ -119,3 +114,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziyanoffl&theme=dark"
         alt="ziyanoffl" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=ziyanoffl" alt="ziyanoffl" /></a> </p>
