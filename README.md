@@ -52,9 +52,7 @@
     </tr>
     <tr>
         <td><img src="img/tableau.svg" alt="tableau" width="40" height="40"/><br>Tableau</td>
-        <td rowspan="8"></td>
-
-        
+        <td rowspan="9"></td>
     </tr>
   </table>
   
