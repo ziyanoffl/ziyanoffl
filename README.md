@@ -91,7 +91,7 @@
         <th>Tools</th>
         <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
                 height="40" /><br>Microsoft Azure</td>
-        <td><img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="office"
+        <td><img src="img/office.png" alt="office"
                 width="40" height="40" /><br>MS Office</td>
         <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
                 height="40" /><br>Figma</td>
