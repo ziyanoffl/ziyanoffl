@@ -13,19 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<style>
-    table {
-      border-collapse: collapse;
-    }
-    th, td {
-      padding: 10px;
-      text-align: center;
-    }
-    th {
-      writing-mode: vertical-lr;
-      transform: rotate(180deg);
-    }
-  </style>
+
   
   <table>
     <tr>
