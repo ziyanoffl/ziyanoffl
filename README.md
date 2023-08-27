@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyanoffl&label=Profile%20views&color=0e75b6&style=flat"
         alt="ziyanoffl" /> </p>
 
-<p>Hello there! 👋 As a dedicated software engineer, I've immersed myself in the worlds of machine learning, data
+<p>As a dedicated software engineer, I've immersed myself in the worlds of machine learning, data
     science, and web development. My journey has led me to design web pages, ERP systems, and captivating machine
     learning applications using various languages, frameworks, and tools. Currently, I'm pursuing a BSc degree in
     Software Engineering at Solent University. Here's a sneak peek into my journey and projects:</p>
