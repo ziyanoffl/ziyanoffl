@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyanoffl&label=Profile%20views&color=0e75b6&style=flat"
         alt="ziyanoffl" /> </p>
-<img align="right" alt="Coding" width="300"
-    src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
+<!-- <img align="right" alt="Coding" width="300"
+    src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif"> -->
 
 <p align="left" style="margin-right: 420px;">As a dedicated software engineer, I've immersed myself in the worlds of
     machine learning, data science, and web development. My journey has led me to design web pages, ERP systems, and
@@ -113,11 +113,11 @@
     skill level.</p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ziyanoffl&theme=dark&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats-ziyanoffl.vercel.app/api/top-langs?username=ziyanoffl&theme=dark&show_icons=true&locale=en&layout=compact"
         alt="ziyanoffl" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ziyanoffl&theme=dark&show_icons=true&locale=en"
+        src="https://github-readme-stats-ziyanoffl.vercel.app/api?username=ziyanoffl&theme=dark&show_icons=true&locale=en"
         alt="ziyanoffl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziyanoffl&theme=dark"
