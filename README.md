@@ -11,7 +11,7 @@
     machine learning, data science, and web development. My journey has led me to design web pages, ERP systems, and
     captivating machine learning applications using various languages, frameworks, and tools. Currently, I'm pursuing a
     BSc degree in Software Engineering at Solent University. Here's a sneak peek into my journey and projects:</p>
-    <br><br><br>
+    <br><br>
 <ul style="margin-left: 20px;">
     <li><strong>Stock Prediction Application 📊</strong>: Venture into my Django-based app for predicting stock prices,
         where a meticulously tuned hybrid model achieved a remarkable 97% accuracy. Discover it <a
